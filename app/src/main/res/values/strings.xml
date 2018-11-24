@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">TourGuide</string>
+
+    <string name="category_museums">Museums</string>
+
+    <string name="category_parks">Parks</string>
+
+    <string name="category_restaurants">Restaurants</string>
+
+    <string name="category_pubs">Pubs</string>
+
+    <string name="history">History Museum</string>
+    <string name="arts">Arts Museum</string>
+    <string name="royal">Royal Court Museum</string>
+    <string name="chindia">Chindia Tower</string>
+    <string name="police">Police Museum</string>
+    <string name="stelea">Stelea Gallery</string>
+    <string name="madd1">Calea Domneasca Street 14</string>
+    <string name="madd2">Calea Domneasca Street 16</string>
+    <string name="madd3">Calea Domneasca Street 21</string>
+    <string name="madd4">Calea Domneasca Street 21</string>
+    <string name="madd5">Calea Domneasca Street 15</string>
+    <string name="madd6">Heliade Popescu Street 9</string>
+    <string name="mhour1">T-S 8-19</string>
+    <string name="mhour2">T-S 8-18</string>
+    <string name="mhour3">T-S 8-19</string>
+    <string name="mhour4">T-S 8-19</string>
+    <string name="mhour5">T-S 8-16</string>
+    <string name="mhour6">T-S 8-17:30</string>
+    <string name="pname1">Police</string>
+    <string name="pname2">Bricks</string>
+    <string name="pname3">Dublin</string>
+    <string name="pname4">Moshu</string>
+    <string name="pname5">Baba</string>
+    <string name="pname6">Queen Corner</string>
+    <string name="padd1">Alexandru Ioan Cuza 21</string>
+    <string name="padd2">Alexandru Ioan Cuza 19</string>
+    <string name="padd3">Alexandru Ioan Cuza 20</string>
+    <string name="padd4">Alexandru Ioan Cuza 23</string>
+    <string name="padd5">Alexandru Ioan Cuza 28</string>
+    <string name="padd6">Alexandru Ioan Cuza 10</string>
+    <string name="phour1">Everyday 14-03</string>
+    <string name="phour2">Everyday 12-24</string>
+    <string name="phour3">Everyday 12-02</string>
+    <string name="phour4">Everyday 10-01</string>
+    <string name="phour5">Everyday 10-24</string>
+    <string name="phour6">Everyday 10-24</string>
+    <string name="paname1">Metropolitan</string>
+    <string name="paname2">Chindia</string>
+    <string name="paname3">Terra</string>
+    <string name="paname4">Divertiland</string>
+    <string name="paname5">Tineretului</string>
+    <string name="paname6">Herastrau</string>
+    <string name="paname7">Cismigiu</string>
+    <string name="paadd1">Mircea cel Bătrân Street</string>
+    <string name="paadd2">Calea Domneasca Street</string>
+    <string name="paadd3">Timisoara Blvd. 8A</string>
+    <string name="paadd4">Divertismentului Street 1</string>
+    <string name="paadd5">Tineretului Street 2-5</string>
+    <string name="paadd6">Aviatorilor Street 1-9</string>
+    <string name="paadd7">Elisabeta Blvd 3</string>
+    <string name="pahour1">Non-stop</string>
+    <string name="pahour2">Non-stop</string>
+    <string name="pahour3">F,S,S 10-21</string>
+    <string name="pahour4">Everyday 10-20</string>
+    <string name="pahour5">Non-stop</string>
+    <string name="pahour6">Non-stop</string>
+    <string name="pahour7">Non-stop</string>
+    <string name="rname1">San Marco</string>
+    <string name="rname2">Belvedere</string>
+    <string name="rname3">Embassy</string>
+    <string name="rname4">Casa Vecchia</string>
+    <string name="rname5">Towers</string>
+    <string name="rname6">Dambovita</string>
+    <string name="radd1">Alexandru Ioan Cuza 22</string>
+    <string name="radd2">Alexandru Ioan Cuza 25</string>
+    <string name="radd3">Alexandru Ioan Cuza 26</string>
+    <string name="radd4">Alexandru Ioan Cuza 19</string>
+    <string name="radd5">Alexandru Ioan Cuza 24</string>
+    <string name="radd6">Mircea cel Batran Streen 10</string>
+    <string name="rhour1">Everyday 9-24</string>
+    <string name="rhour2">Everyday 9-24</string>
+    <string name="rhour3">Everyday 11-24</string>
+    <string name="rhour4">Everyday 8-23</string>
+    <string name="rhour5">Everyday 10-24</string>
+    <string name="rhour6">Everyday 8-22</string>
+
+</resources>
+
