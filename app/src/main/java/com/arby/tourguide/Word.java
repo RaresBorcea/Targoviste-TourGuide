@@ -10,9 +10,7 @@ public class Word {
     private String mOpen;
     private int mImageResourceId = NO_IMAGE_PROVIDED;
 
-    /**
-     * Constant value that represents no image was provided for this word
-     */
+    // Constant value that represents no image was provided for this word
     private static final int NO_IMAGE_PROVIDED = -1;
 
     public Word(String name, String location, String open) {
