@@ -4,7 +4,6 @@ package com.arby.tourguide;
  * Created by rares on 26.07.2017.
  */
 
-
 import android.app.Activity;
 import android.support.annotation.NonNull;
 import android.support.v4.content.ContextCompat;
@@ -23,10 +22,6 @@ public class WordAdapter extends ArrayAdapter<Word> {
 
 
     public WordAdapter(Activity context, ArrayList<Word> adapter, int color) {
-        // Here, we initialize the ArrayAdapter's internal storage for the context and the list.
-        // the second argument is used when the ArrayAdapter is populating a single TextView.
-        // Because this is a custom adapter for two TextViews and an ImageView, the adapter is not
-        // going to use this second argument, so it can be any value. Here, we used 0.
         super(context, 0, adapter);
         mColor = color;
     }
@@ -41,25 +36,18 @@ public class WordAdapter extends ArrayAdapter<Word> {
                     R.layout.list_item, parent, false);
         }
 
-        // Get the {@link AndroidFlavor} object located at this position in the list
+        // Get the AndroidFlavor object located at this position in the list
         final Word currentWord = getItem(position);
 
-        // Find the TextView in the list_item.xml layout with the ID version_name
         TextView name = (TextView) listItemView.findViewById(R.id.name);
-        // set this text on the name TextView
         name.setText(currentWord.getName());
 
-        // Find the TextView in the list_item.xml layout with the ID version_number
         TextView location = (TextView) listItemView.findViewById(R.id.location);
-        // set this text on the number TextView
         location.setText(currentWord.getLocation());
 
-        // Find the TextView in the list_item.xml layout with the ID version_number
         TextView open = (TextView) listItemView.findViewById(R.id.open);
-        // set this text on the number TextView
         open.setText(currentWord.getOpen());
 
-        // Find the ImageView in the list_item.xml layout with the ID list_item_icon
         ImageView iconView = (ImageView) listItemView.findViewById(R.id.image);
 
         // Check if an image is provided for this word or not
